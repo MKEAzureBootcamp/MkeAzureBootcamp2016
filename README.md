@@ -5,22 +5,32 @@ This repository contains the PowerPoint slide decks for the presentations given 
 Event Agenda and Location information:
 http://bit.ly/MkeAzureBootcamp
 
-The event presentation content and labs for the this event are based on the Azure Readiness DevCamp proeject:
+The event presentation content and labs for the this event are based on the Azure Readiness DevCamp project:
 https://github.com/Azure-Readiness/DevCamp
 
 Global Azure Bootcamp: http://global.azurebootcamp.net
 
 ##Presenters:
+
 **Scott Petersen**
+
 http://twitter.com/scottpetersen
+
 http://datawisdoms.com
 
+
 **Chris Pietschmann**
+
 http://twitter.com/crpietschmann
+
 http://buildazure.com
 
+
 **Tony Sebion**
+
 http://twitter.com/tonysebion
 
+
 **Bill Hughes**
+
 http://twitter.com/_billhughes
