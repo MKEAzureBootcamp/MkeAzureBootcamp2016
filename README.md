@@ -10,6 +10,8 @@ https://github.com/Azure-Readiness/DevCamp
 
 Global Azure Bootcamp: http://global.azurebootcamp.net
 
+![Image](https://raw.githubusercontent.com/MKEAzureBootcamp/MKE2016AzureBootcamp/master/EventPhotos/IMG_2011.JPG)
+
 ##Presenters:
 
 **Scott Petersen**
