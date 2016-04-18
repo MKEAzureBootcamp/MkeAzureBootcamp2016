@@ -18,7 +18,7 @@ Global Azure Bootcamp: http://global.azurebootcamp.net
 
 http://twitter.com/scottpetersen
 
-http://datawisdoms.com
+http://www.datawisdoms.com
 
 
 **Chris Pietschmann**
@@ -26,6 +26,8 @@ http://datawisdoms.com
 http://twitter.com/crpietschmann
 
 http://buildazure.com
+
+http://blogs.perficient.com/microsoft
 
 
 **Tony Sebion**
