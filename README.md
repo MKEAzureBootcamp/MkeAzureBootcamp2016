@@ -38,3 +38,5 @@ http://twitter.com/tonysebion
 **Bill Hughes**
 
 http://twitter.com/_billhughes
+
+http://www.concurrency.com/blog
