@@ -25,7 +25,7 @@ http://www.datawisdoms.com
 
 http://twitter.com/crpietschmann
 
-http://build5nines.com.com
+http://build5nines.com
 
 
 **Tony Sebion**
