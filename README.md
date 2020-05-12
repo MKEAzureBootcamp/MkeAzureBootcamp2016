@@ -25,9 +25,7 @@ http://www.datawisdoms.com
 
 http://twitter.com/crpietschmann
 
-http://buildazure.com
-
-http://blogs.perficient.com/microsoft
+http://build5nines.com.com
 
 
 **Tony Sebion**
